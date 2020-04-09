@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### To Run Backend Api you Need to run this command
+```
+json-server --watch backend/db.json
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
